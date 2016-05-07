@@ -77,7 +77,7 @@
 "cancel" = "Annuler";
 
 /* about */
-"about_description" = "Quran pour Android est une application Quran gratuite. S'il vous plaît, n'oubliez pas les contributeurs dans vos prières.";
+"about_description" = "Quran est une application Quran gratuite. S'il vous plaît, n'oubliez pas les contributeurs dans vos prières.";
 "about_data_sources" = "Sources de données";
 "about_images" = "Images";
 "about_madani_images" = "Les images du Quran sont basées sur les polices d'écriture du King Fahd Quran Printing Complex";
@@ -91,7 +91,7 @@
 "about_open_source" = "Projets Open Source";
 "about_others" = "Autres";
 "about_contributors" = "Contributeurs";
-"about_contributors_summary" = "Une liste des personnes ayant contribué au développement de Quran pour Android";
+"about_contributors_summary" = "Une liste des personnes ayant contribué au développement de Quran";
 
 /* help */
 "help_title" = "FAQ";
@@ -177,7 +177,7 @@
 "exported_data" = "Données exportées dans %1$s.";
 "logs_email" = "quranandroid+logs@gmail.com";
 "warning" = "Attention";
-"kitkat_external_message" = "Dû à certaines restrictions d'Android, si vous choisissez\n      de stocker les données de l'application sur votre carte SD et que par la suite vous désinstallez\n      ou supprimez les données de Quran Android, toutes les pages et les audios de Quran Android\n      seront supprimés et vous serez contraints de les télécharger de nouveau. Êtes-vous certains de\n      vouloir utiliser la carte SD externe ?";
+"kitkat_external_message" = "Dû à certaines restrictions d'Android, si vous choisissez\n      de stocker les données de l'application sur votre carte SD et que par la suite vous désinstallez\n      ou supprimez les données de Quran, toutes les pages et les audios de Quran\n      seront supprimés et vous serez contraints de les télécharger de nouveau. Êtes-vous certains de\n      vouloir utiliser la carte SD externe ?";
 "please_grant_permissions" = "S'il vous plaît, accordez les permissions dans les paramètres des applicaitons.";
 
 /* Preferences End
